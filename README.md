@@ -21,5 +21,5 @@ Improve the design using animations and transitions.
 Feel free to reach out if you have any feedback or just want to say hello!
 
 Email: thawdarswezin2@gmail.com
-LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/thawdar-swezin-b13395246/)
+LinkedIn: [linkedin.com/in/my-profile](https://www.linkedin.com/in/thawdar-swezin-b13395246/)
 
